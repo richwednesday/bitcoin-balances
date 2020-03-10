@@ -4,9 +4,10 @@ Check your total Bitcoin holdings at any time with one script.
 
 ### How to Use
 
-Replace address.txt with the addresses (public key) you own.
+Replace the `address.txt` file with the addresses (public key) you own.
 
 `npm install`
+
 `npm run start`
 
 ### Response
