@@ -20,6 +20,6 @@
   "author": "richwednesday",
   "license": "MIT",
   "dependencies": {
-    "got": "^10.6.0"
+    "got": "^11.8.5"
   }
 }
